@@ -39,7 +39,19 @@ void main(){
     printf("char (character) %c\n", c);
     printf("Const - %f",PIE);
 
+
+    /*
+    Printing value with decimal precision (Round-up the decimal number)
+
+    * %.1f to print only one digit after decimal
+    * %.2f to print only two digits after decimal
+
+    * for float use f 
+    * for double use lf
+    */
     
-
-
+    double g = 3.14159265359;
+    printf("\n%.1lf",g);// output 3.1
+    printf("\n%.6lf",g); // 3.14593 
+    
 }
