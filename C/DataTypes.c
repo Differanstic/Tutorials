@@ -54,4 +54,5 @@ void main(){
     printf("\n%.1lf",g);// output 3.1
     printf("\n%.6lf",g); // 3.14593 
     
+    
 }
