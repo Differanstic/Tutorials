@@ -1,1 +1,2 @@
-w
+### ** C Notes **
+## Variables
