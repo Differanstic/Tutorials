@@ -6,7 +6,7 @@ void main(){
     int x = 10; // Declaring variable
     int *pointer ; // Declaring pointer
     pointer = &x; // Storing address of variable 'a' in pointer
-    int **pointerAddress = &pointer; // Stroing address of pointer pointing to address of variable 'a'
+    int **pointerAddress = &pointer; // Storing address of pointer pointing to address of variable 'a'
 
     printf("Value of variable x -> %d\n", x);
     printf("Address of varible x -> %p\n", pointer);
