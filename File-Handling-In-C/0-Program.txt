@@ -1,0 +1,16 @@
+Program TODO
+
+1. Write using
+        fputc
+        fputs
+        putw
+
+2. Read using   
+        fgetc
+        fgets
+        getw
+
+3. Print Every Word of file in next line.
+4. Word and Letter counter (count words and letters in file).
+5. Replace letter in file.
+6. Print File in Reverse order.
