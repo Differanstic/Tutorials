@@ -5,7 +5,7 @@ void main(){
 
     // Write to File
     f = fopen("f2.txt","w");
-    fprintf(f,"Hello World!");
+    fputs()
     fclose(f);
 
     // Append to File

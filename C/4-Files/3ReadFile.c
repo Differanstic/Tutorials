@@ -19,4 +19,6 @@ void main(){
     }
     while(c != EOF);
     fclose(f);
+
+    
 }
